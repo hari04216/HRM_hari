@@ -66,6 +66,13 @@ public class BaseClass {
 //		HrmLogout HLout=new HrmLogout(driver); 
 //		HLout.clickonWelcome();
 //		HLout.clickOnLogout();
+		
+		
+		
+		
+		
+		
+		System.out.println("fdhgfmhghgf");
 
 	}
 
